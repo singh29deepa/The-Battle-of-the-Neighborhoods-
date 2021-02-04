@@ -2,13 +2,13 @@
 IBM-Capstone-Project-Notebook - Repository for Coursera IBM Applied Data Science Capstone
 Restaurants are a notoriously difficult business to own or operate. Not only is it a relatively capital and employee-intensive business, restaurants are also highly regulated, low margin and in most cases have a plethora of competition to deal with. There are more dining establishments and more diners now than during any other time in history; the National Restaurant Association reports over 1 million restaurant locations in the U.S. alone, a particular boon considering more than half the American population visits at least one of them each week. To fill a niche and remain relevant, prospective, as well as established, restaurants have to hedge their bets with well-rounded and well-directed dataset. Data science provides valuable insights regarding market trends and evolving consumer lifestyles so that restaurateurs can better address and meet public demand.
 
-Business Problem
+Business Problem-
 
 No single restaurant is ever going to appeal to everyone. Some people like quiet, intimate settings; others prefer boisterous ones. Some people want to bring their kids along; others want to dine alone. The preferences are as varied as the possible offerings, with specific generational cohorts preferring one thing, “people who like Indian food” preferring another and everyone else liking a million other things in between.
 
-My client, a successful Indian restaurant chain in Malaysia is looking to expand operation into North America through New York (NYC).
+Myfriend, a successful Indian restaurant chain in India is looking to expand operation into North America through New York (NYC).
 
-Problem Statement
+Problem Statement-
 
 To locate and recommend to the client which neighbourhood in New York City will be best choice to start a restaurant.
 
@@ -20,7 +20,7 @@ Data source:https://en.wikipedia.org/wiki/New_York_City ; https://en.wikipedia.o
 Part 2: Who are the competitors in that location?
 Data source:https://cocl.us/new_york_dataset and Foursquare API. These dataset was used to explore various neighbourhoods and each Indian restaurants venues in the neighbourhood. Click here to view Python's script.
 
-Recommendations
+Recommendations-
 
 Midtown or Tribeca in Manhattan would be the best choice to start an Indian restaurant given that:-
 
